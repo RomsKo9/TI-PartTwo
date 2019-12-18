@@ -1,0 +1,3 @@
+/mnt/c/Users/testo/Desktop/Polytech/5A/TI/partie2/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/testo/Desktop/Polytech/5A/TI/partie2/CMakeFiles/detect_cercle.dir
+/mnt/c/Users/testo/Desktop/Polytech/5A/TI/partie2/CMakeFiles/edit_cache.dir

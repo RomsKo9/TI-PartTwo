@@ -1,0 +1,4 @@
+[ 50%] Building CXX object CMakeFiles/detect_cercle.dir/partie2.cpp.o
+CMakeFiles/detect_cercle.dir/build.make:62: recipe for target 'CMakeFiles/detect_cercle.dir/partie2.cpp.o' failed
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/detect_cercle.dir/all' failed
+Makefile:83: recipe for target 'all' failed
